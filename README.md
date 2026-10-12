@@ -1,6 +1,6 @@
 # LNASF Adaptive Admin Console
 
-An Angular 19 standalone admin application and a practical reference implementation of the [Learning-Native Adaptive Software Framework (LNASF)](https://github.com/peymanpro/learning-native-adaptive-software-framework).
+An Angular 19 standalone admin application and a practical reference implementation of the [Learning-Native Adaptive Software Framework (LNASF)](https://github.com/peymanpro/Learning-Native-Adaptive-Software-Framewor-Or-LNASF).
 
 The first implementation focuses on one small, measurable runtime adaptation: **learning navigation transitions and speculatively preloading a likely next page when the evidence and decision policy justify the cost**.
 
@@ -93,5 +93,5 @@ A prediction hit is not, by itself, proof of a latency improvement. Preloading c
 
 ## Related work
 
-- [Learning-Native Adaptive Software Framework (LNASF)](https://github.com/peymanpro/learning-native-adaptive-software-framework)
+- [Learning-Native Adaptive Software Framework (LNASF)](https://github.com/peymanpro/Learning-Native-Adaptive-Software-Framewor-Or-LNASF)
 - [LNASF Adaptive Admin Console history](https://github.com/peymanpro/LNASF-Adaptive-Admin-Console/commits/master)
